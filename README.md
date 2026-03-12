@@ -192,5 +192,3 @@ Potential improvements include:
 ## Author
 
 **Matvii Studnytskiy**
-
-Machine Learning & Data Analysis
